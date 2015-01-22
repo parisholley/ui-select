@@ -1,7 +1,7 @@
 {
   "name": "ui-select",
-  "version": "0.9.6",
-  "homepage": "https://github.com/angular-ui/ui-select",
+  "version": "paris",
+  "homepage": "https://github.com/parisholley/ui-select",
   "authors": [
     "AngularUI"
   ],
